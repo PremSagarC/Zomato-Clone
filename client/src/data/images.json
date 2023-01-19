@@ -1,0 +1,72 @@
+[
+  {
+    "_id": {
+      "$oid": "6161a397a8bb5a753a157e5d"
+    },
+    "images": [
+      {
+        "location": "https://b.zmtcdn.com/data/pictures/chains/8/301718/9386449fd71cc10c9b1007469be4fe10.jpg"
+      },
+      {
+        "location": "https://b.zmtcdn.com/data/pictures/chains/8/301718/521b89e0710553cee262e5f0b13efb23.jpg"
+      },
+      {
+        "location": "https://b.zmtcdn.com/data/pictures/5/18216915/1cd1d09c0a137b5d8da7a7f7310cd919.jpg"
+      },
+      {
+        "location": "https://b.zmtcdn.com/data/pictures/chains/8/301718/521b89e0710553cee262e5f0b13efb23.jpg"
+      },
+      {
+        "location": "https://b.zmtcdn.com/data/pictures/5/18216915/1cd1d09c0a137b5d8da7a7f7310cd919.jpg"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "63370f8c40c3b4298c9aac42"
+    },
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1664552844779"
+      }
+    },
+    "images": [
+      {
+        "location": "https://zomato-clone-10567.s3.ap-south-1.amazonaws.com/venmoLogo.png",
+        "_id": {
+          "$oid": "63370f8c40c3b4298c9aac43"
+        }
+      }
+    ],
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1664552844779"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6337126b390af4be4f0c92dc"
+    },
+    "__v": 0,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1664553579841"
+      }
+    },
+    "images": [
+      {
+        "location": "https://zomato-clone-10567.s3.ap-south-1.amazonaws.com/hmritm.jpg",
+        "_id": {
+          "$oid": "6337126b390af4be4f0c92dd"
+        }
+      }
+    ],
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1664553579841"
+      }
+    }
+  }
+]
